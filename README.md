@@ -12,7 +12,7 @@ This project is a collection of **9 AI agents** built with **Google's Gemini (Ge
 - **Speech Recognition** – Converts spoken audio (wav/mp3) into text transcription.
 - **Summarization** – Generates a concise summary of a longer text document.
 - **Text Classification** – Classifies text into predefined categories (e.g. topics or labels).
-- **Translation** – Translates text from one language to another (default target is French, can be specified).
+- **Translation Agent** – Translates text from one language to another (default target is French, can be specified).
 
 All agents harness the power of large language models (via **Google Generative AI Gemini**) or relevant AI services, and return results in a structured JSON-like format for clarity. The Streamlit app ties these agents together under a unified interface for easy interaction.
 
